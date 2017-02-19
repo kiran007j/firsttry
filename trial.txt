@@ -1,0 +1,3 @@
+Text added after add but before commit.
+It shows same file in tracked as well as in untracked.
+Next step is I added again, now it shows single file staged.
